@@ -16,3 +16,14 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
+
+## Stats 🚀
+
+<div align="center">
+  <p> 
+    <img height="200px" src='https://github-readme-stats.vercel.app/api?username=kieran-murphy&show_icons=true&theme=transparent' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kieran-murphy&theme=transparent&exclude_repo=2703ICTAssignment1,2703ICTAssignment2,Assignment_3813ICT'/>
+  </p>
+<div>
