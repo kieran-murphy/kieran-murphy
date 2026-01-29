@@ -1,3 +1,16 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FFFFFF&size=45&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Kieran;Welcome+to+my+profile!" alt="Title" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+
+- :gem: My full name is **Kieran Murphy** <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" align="right"/>
+- :heart: I love problem solving and learning new frameworks
+- :books: My major is **Software Engineering**
+- :sweat_smile: I use dark mode because light mode attracts more bugs :bug:
+- :soccer: I'm interested in coding, gym, and soccer
+- :coffee: I'm fueled by caffeine!
+
 ## Languages 📖
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
